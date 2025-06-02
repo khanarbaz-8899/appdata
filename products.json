@@ -38,5 +38,11 @@
       "id":8,
       "name":"product 5",
       "image":"slide-img-8.jpg"
+   },
+   {
+       "id":9,
+      "name":"product 5",
+      "image":"slide-img-9.jpg"
    }
+   
 ]

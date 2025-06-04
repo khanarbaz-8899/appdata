@@ -1,12 +1,12 @@
 [
    {
       "id":1,
-      "name":"arbaz1",
+      "name":"product-1",
       "image":"slide-img-1.jpg"
    },
    {
       "id":2,
-      "name":"khan 2",
+      "name":"products-2",
       "image":"slide-img-2.jpg"
    },
    {
@@ -26,72 +26,72 @@
    },
    {
       "id":6,
-      "name":"product 5",
+      "name":"product 6",
       "image":"slide-img-6.jpg"
    },
    {
       "id":7,
-      "name":"product 5",
+      "name":"product 7",
       "image":"slide-img-7.jpg"
    },
    {
       "id":8,
-      "name":"product 5",
+      "name":"product 8",
       "image":"slide-img-8.jpg"
    },
    {
        "id":9,
-      "name":"product 5",
+      "name":"product 9",
       "image":"image-1.png"
    },
     {
        "id":10,
-      "name":"product 5",
+      "name":"product 10",
       "image":"image-2.jpg"
    },
     {
        "id":11,
-      "name":"product 5",
+      "name":"product 11",
       "image":"image-3.jpg"
    },
     {
        "id":12,
-      "name":"product 5",
+      "name":"product 12",
       "image":"image-4.jpg"
    },
     {
        "id":13,
-      "name":"product 5",
+      "name":"product 13",
       "image":"image-5.jpg"
    },
     {
        "id":14,
-      "name":"product 5",
+      "name":"product 14",
       "image":"image-6.jpg"
    },
     {
        "id":15,
-      "name":"product 5",
+      "name":"product 15",
       "image":"image-7.jpg"
    },
     {
        "id":16,
-      "name":"product 5",
+      "name":"product 16",
       "image":"image-8.jpg"
    },
     {
        "id":17,
-      "name":"product 5",
+      "name":"product 17",
       "image":"image-9.png"
    },
     {
        "id":18,
-      "name":"product 5",
+      "name":"product 18",
       "image":"image-10.png"
    },
     {
        "id":19,
-      "name":"product 5",
+      "name":"product 19",
       "image":"image-11.jpg"
    }
 ]

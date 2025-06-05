@@ -3,91 +3,119 @@
    {
       "id":1,
       "name":"Animal Sculpture Decorative",
-      "image":"Animal-Sculpture-Decorative.jpg"
+      "image":"Animal Sculpture Decorative.jpg"
+   },
+   {
+      "id":2,
+      "name":"Bar Wares",
+      "image":"Bar Wares.jpeg"
    },
    {
       "id":3,
-      "name":"product 3",
-      "image":"slide-img-3.jpg"
+      "name":"Bathroom Wares",
+      "image":"Bathroom Wares(2).jpeg"
    },
    {
       "id":4,
-      "name":"product 4",
-      "image":"slide-img-4.jpg"
+      "name":"Bowls",
+      "image":"Bowls.jpeg"
    },
    {
       "id":5,
-      "name":"product 5",
-      "image":"slide-img-5.jpg"
+      "name":"Cake Stands",
+      "image":"Cake Stands.jpeg"
    },
    {
       "id":6,
-      "name":"product 6",
-      "image":"slide-img-6.jpg"
+      "name":"Candle Holders",
+      "image":"Candle Holders.jpeg"
    },
    {
       "id":7,
-      "name":"product 7",
-      "image":"slide-img-7.jpg"
+      "name":"Christmas Decor",
+      "image":"Christmas Decor.jpeg"
    },
    {
-      "id":8,
-      "name":"product 8",
-      "image":"slide-img-8.jpg"
+       "id":8,
+      "name":"Copper Wares",
+      "image":"Copper Wares.jpeg"
    },
-   {
+    {
        "id":9,
-      "name":"product 9",
-      "image":"image-1.png"
+      "name":"Decorative Box",
+      "image":"Decorative Box.jpg"
    },
     {
        "id":10,
-      "name":"product 10",
-      "image":"image-2.jpg"
+      "name":"Flower Vases",
+      "image":"Flower Vases.jpeg"
    },
     {
        "id":11,
-      "name":"product 11",
-      "image":"image-3.jpg"
+      "name":"Garden Wares",
+      "image":"Garden Wares.jpeg"
    },
     {
        "id":12,
-      "name":"product 12",
-      "image":"image-4.jpg"
+      "name":"Glass Flower Vase",
+      "image":"Glass Flower Vase.jpg"
    },
     {
        "id":13,
-      "name":"product 13",
-      "image":"image-5.jpg"
+      "name":"Hurricanes",
+      "image":"Hurricanes.jpeg"
    },
     {
        "id":14,
-      "name":"product 14",
-      "image":"image-6.jpg"
+      "name":"Jute Wares",
+      "image":"Jute Wares.jpeg"
    },
     {
        "id":15,
-      "name":"product 15",
-      "image":"image-7.jpg"
+      "name":"Kitchen And Wooden Wares",
+      "image":"Kitchen And Wooden Wares.jpeg"
    },
     {
        "id":16,
-      "name":"product 16",
-      "image":"image-8.jpg"
+      "name":"Lanterns",
+      "image":"Lanterns.jpeg"
    },
     {
        "id":17,
-      "name":"product 17",
-      "image":"image-9.png"
+      "name":"Metal Trays",
+      "image":"Metal Trays.jpeg"
    },
     {
        "id":18,
-      "name":"product 18",
-      "image":"image-10.png"
-   },
-    {
+      "name":"Metal furniture",
+      "image":"Metal furniture.jpeg"
+   } {
        "id":19,
-      "name":"product 19",
-      "image":"image-11.jpg"
+      "name":"Mirror Trays",
+      "image":"Mirror Trays.jpeg"
+   } {
+       "id":20,
+      "name":"Planters",
+      "image":"Planters.jpeg"
+   } {
+       "id":21,
+      "name":"Reindeers",
+      "image":"Reindeers.jpg"
+   } {
+       "id":22,
+      "name":"Sculpture Decor",
+      "image":"Sculpture Decor.jpg"
+   } {
+       "id":23,
+      "name":"Serving Wares",
+      "image":"Serving Wares.jpeg"
+   } {
+       "id":24,
+      "name":"Tlight Holders",
+      "image":"Tlight Holders.jpeg"
+   } {
+       "id":25,
+      "name":"Wall Mirrors And Decor",
+      "image":"Wall Mirrors and Decor.jpeg"
    }
 ]

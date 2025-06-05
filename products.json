@@ -7,12 +7,12 @@
   {
     "id": 2,
     "name": "Bar Wares",
-    "image": "Bar Wares.jpeg"
+    "image": "Bar-Wares.jpeg"
   },
   {
     "id": 3,
     "name": "Bathroom Wares",
-    "image": "Bathroom Wares(2).jpeg"
+    "image": "Bathroom-Wares(2).jpeg"
   },
   {
     "id": 4,
@@ -22,42 +22,42 @@
   {
     "id": 5,
     "name": "Cake Stands",
-    "image": "Cake Stands.jpeg"
+    "image": "Cake-Stands.jpeg"
   },
   {
     "id": 6,
     "name": "Candle Holders",
-    "image": "Candle Holders.jpeg"
+    "image": "Candle-Holders.jpeg"
   },
   {
     "id": 7,
     "name": "Christmas Decor",
-    "image": "Christmas Decor.jpeg"
+    "image": "Christmas-Decor.jpeg"
   },
   {
     "id": 8,
     "name": "Copper Wares",
-    "image": "Copper Wares.jpeg"
+    "image": "Copper-Wares.jpeg"
   },
   {
     "id": 9,
     "name": "Decorative Box",
-    "image": "Decorative Box.jpg"
+    "image": "Decorative-Box.jpg"
   },
   {
     "id": 10,
     "name": "Flower Vases",
-    "image": "Flower Vases.jpeg"
+    "image": "Flower-Vases.jpeg"
   },
   {
     "id": 11,
     "name": "Garden Wares",
-    "image": "Garden Wares.jpeg"
+    "image": "Garden-Wares.jpeg"
   },
   {
     "id": 12,
     "name": "Glass Flower Vase",
-    "image": "Glass Flower Vase.jpg"
+    "image": "Glass-Flower-Vase.jpg"
   },
   {
     "id": 13,
@@ -67,12 +67,12 @@
   {
     "id": 14,
     "name": "Jute Wares",
-    "image": "Jute Wares.jpeg"
+    "image": "Jute-Wares.jpeg"
   },
   {
     "id": 15,
     "name": "Kitchen And Wooden Wares",
-    "image": "Kitchen And Wooden Wares.jpeg"
+    "image": "Kitchen-And-Wooden-Wares.jpeg"
   },
   {
     "id": 16,
@@ -82,17 +82,17 @@
   {
     "id": 17,
     "name": "Metal Trays",
-    "image": "Metal Trays.jpeg"
+    "image": "Metal-Trays.jpeg"
   },
   {
     "id": 18,
     "name": "Metal furniture",
-    "image": "Metal furniture.jpeg"
+    "image": "Metal-furniture.jpeg"
   },
   {
     "id": 19,
     "name": "Mirror Trays",
-    "image": "Mirror Trays.jpeg"
+    "image": "Mirror-Trays.jpeg"
   },
   {
     "id": 20,
@@ -107,21 +107,21 @@
   {
     "id": 22,
     "name": "Sculpture Decor",
-    "image": "Sculpture Decor.jpg"
+    "image": "Sculpture-Decor.jpg"
   },
   {
     "id": 23,
     "name": "Serving Wares",
-    "image": "Serving Wares.jpeg"
+    "image": "Serving-Wares.jpeg"
   },
   {
     "id": 24,
     "name": "Tlight Holders",
-    "image": "Tlight Holders.jpeg"
+    "image": "Tlight-Holders.jpeg"
   },
   {
     "id": 25,
     "name": "Wall Mirrors And Decor",
-    "image": "Wall Mirrors and Decor.jpeg"
+    "image": "Wall-Mirrors-and-Decor.jpeg"
   }
 ]

@@ -1,121 +1,127 @@
 [
-  
-   {
-      "id":1,
-      "name":"Animal Sculpture Decorative",
-      "image":"Animal Sculpture Decorative.jpg"
-   },
-   {
-      "id":2,
-      "name":"Bar Wares",
-      "image":"Bar Wares.jpeg"
-   },
-   {
-      "id":3,
-      "name":"Bathroom Wares",
-      "image":"Bathroom Wares(2).jpeg"
-   },
-   {
-      "id":4,
-      "name":"Bowls",
-      "image":"Bowls.jpeg"
-   },
-   {
-      "id":5,
-      "name":"Cake Stands",
-      "image":"Cake Stands.jpeg"
-   },
-   {
-      "id":6,
-      "name":"Candle Holders",
-      "image":"Candle Holders.jpeg"
-   },
-   {
-      "id":7,
-      "name":"Christmas Decor",
-      "image":"Christmas Decor.jpeg"
-   },
-   {
-       "id":8,
-      "name":"Copper Wares",
-      "image":"Copper Wares.jpeg"
-   },
-    {
-       "id":9,
-      "name":"Decorative Box",
-      "image":"Decorative Box.jpg"
-   },
-    {
-       "id":10,
-      "name":"Flower Vases",
-      "image":"Flower Vases.jpeg"
-   },
-    {
-       "id":11,
-      "name":"Garden Wares",
-      "image":"Garden Wares.jpeg"
-   },
-    {
-       "id":12,
-      "name":"Glass Flower Vase",
-      "image":"Glass Flower Vase.jpg"
-   },
-    {
-       "id":13,
-      "name":"Hurricanes",
-      "image":"Hurricanes.jpeg"
-   },
-    {
-       "id":14,
-      "name":"Jute Wares",
-      "image":"Jute Wares.jpeg"
-   },
-    {
-       "id":15,
-      "name":"Kitchen And Wooden Wares",
-      "image":"Kitchen And Wooden Wares.jpeg"
-   },
-    {
-       "id":16,
-      "name":"Lanterns",
-      "image":"Lanterns.jpeg"
-   },
-    {
-       "id":17,
-      "name":"Metal Trays",
-      "image":"Metal Trays.jpeg"
-   },
-    {
-       "id":18,
-      "name":"Metal furniture",
-      "image":"Metal furniture.jpeg"
-   } {
-       "id":19,
-      "name":"Mirror Trays",
-      "image":"Mirror Trays.jpeg"
-   } {
-       "id":20,
-      "name":"Planters",
-      "image":"Planters.jpeg"
-   } {
-       "id":21,
-      "name":"Reindeers",
-      "image":"Reindeers.jpg"
-   } {
-       "id":22,
-      "name":"Sculpture Decor",
-      "image":"Sculpture Decor.jpg"
-   } {
-       "id":23,
-      "name":"Serving Wares",
-      "image":"Serving Wares.jpeg"
-   } {
-       "id":24,
-      "name":"Tlight Holders",
-      "image":"Tlight Holders.jpeg"
-   } {
-       "id":25,
-      "name":"Wall Mirrors And Decor",
-      "image":"Wall Mirrors and Decor.jpeg"
-   }
+  {
+    "id": 1,
+    "name": "Animal Sculpture Decorative",
+    "image": "Animal Sculpture Decorative.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bar Wares",
+    "image": "Bar Wares.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Bathroom Wares",
+    "image": "Bathroom Wares(2).jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Bowls",
+    "image": "Bowls.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Cake Stands",
+    "image": "Cake Stands.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Candle Holders",
+    "image": "Candle Holders.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Christmas Decor",
+    "image": "Christmas Decor.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Copper Wares",
+    "image": "Copper Wares.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Decorative Box",
+    "image": "Decorative Box.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Flower Vases",
+    "image": "Flower Vases.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Garden Wares",
+    "image": "Garden Wares.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Glass Flower Vase",
+    "image": "Glass Flower Vase.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Hurricanes",
+    "image": "Hurricanes.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Jute Wares",
+    "image": "Jute Wares.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Kitchen And Wooden Wares",
+    "image": "Kitchen And Wooden Wares.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Lanterns",
+    "image": "Lanterns.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Metal Trays",
+    "image": "Metal Trays.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Metal furniture",
+    "image": "Metal furniture.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Mirror Trays",
+    "image": "Mirror Trays.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Planters",
+    "image": "Planters.jpeg"
+  },
+  {
+    "id": 21,
+    "name": "Reindeers",
+    "image": "Reindeers.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Sculpture Decor",
+    "image": "Sculpture Decor.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Serving Wares",
+    "image": "Serving Wares.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Tlight Holders",
+    "image": "Tlight Holders.jpeg"
+  },
+  {
+    "id": 25,
+    "name": "Wall Mirrors And Decor",
+    "image": "Wall Mirrors and Decor.jpeg"
+  }
 ]
